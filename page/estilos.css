@@ -118,3 +118,10 @@ body {
     grid-template-rows: repeat(5, 100px);
   }
 }
+.contenedor2 {
+  justify-content: space-around;
+  padding: 10px;
+  color: #8a2be2;
+  display: list-item;
+  display: flex;
+}
